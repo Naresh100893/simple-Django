@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # The Simplest Docker + Django Example
 
 A very simple Docker + Django example to help folks learn how they can work together.
@@ -31,3 +32,6 @@ Retrieve an image from the container registry:
 Run an image from the container registry:
 - `docker run -p 8000:8000 -e MAGIC_MESSAGE="Docker command line" <your docker id>/docker-simple:latest`
 - Try this from your machine!
+=======
+# simple-Django
+>>>>>>> c4fb7cf64655e5e945498908a1f67cf41907a564
